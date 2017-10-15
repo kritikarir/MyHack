@@ -1,4 +1,4 @@
 # MyHack
-It's Alright
-Day is good
-It's Good Day
+It's Alright.
+The day is good.
+It's a Good Day!!
